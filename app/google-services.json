@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "472759545451",
+    "firebase_url": "https://hscep-182df.firebaseio.com",
+    "project_id": "hscep-182df",
+    "storage_bucket": "hscep-182df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472759545451:android:2889d4d8c9335bd0",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472759545451-i6dorm2ss7oat8h94ssf2emotmp2puc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo",
+            "certificate_hash": "50120824003996f5b213436547b85c8a57aa6e62"
+          }
+        },
+        {
+          "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaOwZqY_-SXPEza7JIy3qw2BuUXS3gpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472759545451:android:369f53a1e2b8fe8a",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472759545451-fg6ps8qvqgjul07b9p3oaf653n16gcmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.demo",
+            "certificate_hash": "50120824003996f5b213436547b85c8a57aa6e62"
+          }
+        },
+        {
+          "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaOwZqY_-SXPEza7JIy3qw2BuUXS3gpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472759545451:android:c4a479c819adc017",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472759545451-0ksio9u9iah3pdujte5o2gp2s3qpb4p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.demo1",
+            "certificate_hash": "50120824003996f5b213436547b85c8a57aa6e62"
+          }
+        },
+        {
+          "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaOwZqY_-SXPEza7JIy3qw2BuUXS3gpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472759545451:android:d99bb18237254198",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472759545451-glkao1cv1m159cb5kehn3ef46c7e5i8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.demo2",
+            "certificate_hash": "50120824003996f5b213436547b85c8a57aa6e62"
+          }
+        },
+        {
+          "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaOwZqY_-SXPEza7JIy3qw2BuUXS3gpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472759545451:android:514de44c7423b88d",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.demo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472759545451-u4tj4t362tht01g33rf0ken6ts2bruap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.demo3",
+            "certificate_hash": "50120824003996f5b213436547b85c8a57aa6e62"
+          }
+        },
+        {
+          "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaOwZqY_-SXPEza7JIy3qw2BuUXS3gpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472759545451:android:2a4339d41ae2b03dd20b2e",
+        "android_client_info": {
+          "package_name": "com.project.hscef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472759545451-ohstvviuf872imsj58rfad5p8a6qma6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.hscef",
+            "certificate_hash": "50120824003996f5b213436547b85c8a57aa6e62"
+          }
+        },
+        {
+          "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaOwZqY_-SXPEza7JIy3qw2BuUXS3gpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472759545451-p7hsbhqm1mfbs6sedffaq39cit6n0t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
